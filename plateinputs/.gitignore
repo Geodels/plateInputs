@@ -1,0 +1,9 @@
+.DS_Store
+build
+docs/_build/*
+*.pyc
+dist
+earthinit.egg-info
+*.so
+.eggs
+.ipynb_checkpoints

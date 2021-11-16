@@ -1,0 +1,8 @@
+.DS_Store
+build
+*.pyc
+dist
+plateinputs.egg-info
+*.so
+.eggs
+.ipynb_checkpoints
